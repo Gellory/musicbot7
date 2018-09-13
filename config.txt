@@ -1,6 +1,6 @@
-token=YOUR BOT TOKEN HERE
-owner=YOUR OWNER ID HERE
-prefix=YOUR PREFIX HERE!!!
-game=Alpha Bots!
+token=NDg5NTY4ODE1NzM5MzA1OTg0.Dns9Tg.e354J_swTihrQMCY0Ai2YK4DtrA
+owner=302836004237344779
+prefix=++
+game=Gellory Music!
 stayinchannel=true
 songinstatus=true
