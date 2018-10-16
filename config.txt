@@ -1,6 +1,6 @@
-token=YOUR BOT TOKEN HERE
-owner=YOUR OWNER ID HERE
-prefix=YOUR PREFIX HERE!!!
-game=Alpha Bots!
+token=NTAxODkwNTc1Njg0MDc1NTIx.DqgAIA.WpyyNQwbvKi2EYR3bApdx6AelHg
+owner=302836004237344779
+prefix=!-
+game=ELDERS EMPIRE
 stayinchannel=true
 songinstatus=true
